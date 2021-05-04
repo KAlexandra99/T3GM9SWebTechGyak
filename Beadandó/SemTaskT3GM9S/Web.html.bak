@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="hu">
+ <head>
+  <meta charset="UTF-8">
+  <title>WEB technológiák</title>
+ </head>
+ <body style="background:transparent; color:black; font-size:10pt; font-family:tahoma">
+
+	<br><br><br> 
+	<img src="kepek/web.jpg" height="200" border="0" alt="" style="float:right">
+
+	<font style="font-size:14pt"><b>WEB technológiák</b></font> 
+	<br><br> 
+	Ez az oldal a WEB technológiák tematikáját tartalmazza.
+	<br><br> 
+	 <b>Tematika:</b>
+	<ul>
+		<li>HTML, JavaScript, Java servlet fejlesztése
+		<li>HTML nyelv kialakulásának története
+		<li>HTML alapelemek, Űrlapok, DHTML
+		<li>Stíluslapok használata, JavaScript
+		<li>Események kezelése, DOM és SAX alapjai
+		<li>Az XML struktúra
+		<li>DTD és XMLSchema: XSL
+		<li>Web szolgáltatások tervezése, megvalósítása
+		<li>Web szolgáltatások fogalma, működési mechanizmusa.
+	
+		
+	</ul> 
+</body>
+</html>
